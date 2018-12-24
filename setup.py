@@ -6,7 +6,7 @@ setup(
     version = '1.0.1',
     author = 'Sergio Tocalini Joerg',
     author_email = 'sergiotocalini@gmail.com',
-    url = 'https://github.com/sergiotocalini/zabbix-alerts/pyteams',
+    url = 'https://github.com/sergiotocalini/pyteams',
     license = 'GNU GPLv3',
     packages = find_packages(),
     classifiers=[
